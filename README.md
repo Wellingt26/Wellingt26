@@ -14,7 +14,7 @@ Atualmente estou estudando Full Stack para aprender mais tecnologias e ser um pr
 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wellingt26&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wellingt26&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&langs_count=10)
 
 ## 📋 Projetos realizados
 
