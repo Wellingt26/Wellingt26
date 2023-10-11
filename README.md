@@ -10,7 +10,7 @@ Atualmente estudando Full Stack com C# e Angular.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=c-sharp)
+![C-Sharp](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=c-sharp)
 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
