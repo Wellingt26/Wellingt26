@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Resumo sobre mim
 
-Atualmente estou estudando Full Stack para aprender mais tecnologias e ser um profissional mais preparado
+Atualmente estudando Full Stack com C# e Angular.
 
 ## 🚀 Tecnologias conhecidas
 
