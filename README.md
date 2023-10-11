@@ -10,7 +10,7 @@ Atualmente estou estudando Full Stack para aprender mais tecnologias e ser um pr
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=c-sharp)
 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
